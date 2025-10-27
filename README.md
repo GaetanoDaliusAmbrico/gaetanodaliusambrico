@@ -7,5 +7,6 @@ I'm still building my profile 😡
 - Removing the French language from Arch (I use Arch btw)
 
 # What I'm focusing on
-- Learning [Laravel](https://laravel.com)
-- Using LLMs to write twice the slop at half the speed
+- Learning [Go](https://go.dev/)
+- Learning [Svelte](https://https://svelte.dev/)
+- Learning static site deployement through astro and github action
