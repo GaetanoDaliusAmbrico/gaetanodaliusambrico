@@ -1,6 +1,5 @@
-# Go Away!
-I'm still building my profile 😡
-
+# Who am I
+_"This section does not exist - Bailing out, you are on your own. Good luck"_
 # What I love
 - [Nvim](https://neovim.io/) (**N**otorious **V**engefulness and **I**nimical to **M**ouses)
 - Use Linux to feel I have twice my IQ
@@ -9,4 +8,4 @@ I'm still building my profile 😡
 # What I'm focusing on
 - Learning [Go](https://go.dev/)
 - Learning [Svelte](https://https://svelte.dev/)
-- Learning static site deployement through astro and github action
+- Learning static site deployement through astro+svelte and github action for deployement
