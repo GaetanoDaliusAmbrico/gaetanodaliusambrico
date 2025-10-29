@@ -7,5 +7,4 @@ _"This section does not exist - Bailing out, you are on your own. Good luck"_
 
 # What I'm focusing on
 - Learning [Go](https://go.dev/)
-- Learning [Svelte](https://https://svelte.dev/)
-- Learning static site deployement through astro+svelte and github action for deployement
+- Learning [SvelteKit](https://svelte.dev/docs/kit/introduction#What-is-SvelteKit)
